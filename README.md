@@ -1,2 +1,2 @@
 # proxy-design-pattern
-Atividade Hands-On com Proxydo curso "Desenvolvimento Ágil com Padrões de Projeto" - ITA
+Atividade Hands-On com Proxy do curso "Desenvolvimento Ágil com Padrões de Projeto" - ITA
